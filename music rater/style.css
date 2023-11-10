@@ -1,0 +1,22 @@
+body{
+  background: rgb(122, 111, 99);
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.header div ul {
+  list-style-type: none;
+}
+
+.header div ul li {
+  display: inline-block;
+  margin-left: 25px;
+}
+
+.container{
+  width: 600px;
+
+}
